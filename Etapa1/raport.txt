@@ -1,0 +1,8 @@
+straceme.exe		 infectat 
+1.exe		 neinfectat 
+2.exe		 neinfectat 
+3.exe		 neinfectat 
+guesser.exe		 infectat 
+even_password.exe		 infectat 
+Numar total de fisiere scanate: 6
+Numar total de fisiere infectate: 3
