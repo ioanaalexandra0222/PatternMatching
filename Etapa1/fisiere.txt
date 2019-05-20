@@ -1,1 +1,0 @@
-straceme.exe 1.exe 2.exe 3.exe guesser.exe even_password.exe test.exe
