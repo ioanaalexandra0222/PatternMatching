@@ -7,4 +7,6 @@
   -am creat doua fisiere(semns si execs) in care am pus denumirile semnaturilor binare si a executabilelor pentru a fi usor parcurse 
   -dupa comparatii succesive, se genereaza raportul despre care am spus mai sus.
   
+  Sursa my_strace.c este de a implementa o varianta care sa efectueze similar ceea de face comanda strace. Output-ul nu este identic cu al acesteia, afisandu-se doar numerele corespunzatoare apelurilor de sistem si valorile lor de return. Un pas ulterior este sa cautam intr-un tabel cu apelurile de sistem din linux pentru a le identifica. 
+  
     
